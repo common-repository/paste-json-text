@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Paste JSON text\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-28 17:13+0900\n"
+"PO-Revision-Date: 2019-03-29 11:02:37+09:00\n"
+"Last-Translator: wpadmin <takenori.matsuura@gmail.com>\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:/Program Files (x86)/Apache Software Foundation/Apache2.4/htdocs\n"
+"X-Generator: Poppoppoo/0.3.0\n"
+"X-Poedit-SearchPath-0: wp-content/plugins/paste-json-text\n"
+
+#: wp-content/plugins/paste-json-text/paste-json-text.php:73
+msgid "The inputted text is an invalid JSON format."
+msgstr "入力されたテキストは有効なJSONテキストではありません。"
+
+#: wp-content/plugins/paste-json-text/paste-json-text.php:77
+msgid "\"post_title\" and \"post_content\" is required."
+msgstr "入力されたテキストに「見出し」または「投稿内容」が含まれていません。"
+
+#: wp-content/plugins/paste-json-text/paste-json-text.php:172
+msgid "Post data was copied to clipboard."
+msgstr "投稿記事の内容をクリップボードにコピーしました。"
+
+#: wp-content/plugins/paste-json-text/paste-json-text.php:182
+msgid "JSON text pad"
+msgstr "JSONテキストパッド"
+
+#: wp-content/plugins/paste-json-text/paste-json-text.php:221
+msgid "Please check the version of PHP."
+msgstr "PHPのバージョンを確認してください。"
+
+#: wp-content/plugins/paste-json-text/paste-json-text.php:223
+msgid "Change JSON"
+msgstr "JSONに変換"
+
+#: wp-content/plugins/paste-json-text/paste-json-text.php:224
+msgid "This post contents are copied to the textarea."
+msgstr "現在の投稿記事の内容をJSONテキストに変換します。"
+
+#: wp-content/plugins/paste-json-text/paste-json-text.php:227
+msgid "JSON paste"
+msgstr "JSONをペースト"
+
+#: wp-content/plugins/paste-json-text/paste-json-text.php:228
+msgid "The inputted JSON text is parsed and it pasted."
+msgstr "入力されたJSONテキストを解析してペーストします。"
+
+#: wp-content/plugins/paste-json-text/paste-json-text.php:230
+msgid "Paste post name."
+msgstr "スラッグ（post name）をペーストする"
+
+#: wp-content/plugins/paste-json-text/paste-json-text.php:231
+msgid "Paste meta values."
+msgstr "カスタムフィールド（post meta）をペーストする"
+
+#: paste-json-text.php:233
+msgid "Failed to generate JSON."
+msgstr "JSONの生成に失敗しました"
